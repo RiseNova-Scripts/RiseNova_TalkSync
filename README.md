@@ -31,7 +31,7 @@ Talk, and your character comes alive.
 3. Add this to your `server.cfg`:
 
 ```
-ensure risenova_talksync
+ensure RiseNova_TalkSync
 ```
 
 4. Open `config.lua` and adjust animation settings, expression levels, and framework hooks.
